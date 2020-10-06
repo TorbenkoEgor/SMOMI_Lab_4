@@ -26,6 +26,8 @@
 
 # train2.py
 
+Угол - 30 градусов
+
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-2-p.png)
 
 Метрика точности
@@ -39,6 +41,8 @@
 ---
 
 # train3.py
+
+Угол - 40 градусов
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-3-p.png)
 
@@ -54,6 +58,8 @@
 
 
 # train4.py
+
+Угол - 45 градусов
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-4-p.png)
 
@@ -73,6 +79,10 @@
 
 # train5.py
 
+Значение случайной яркости - 0.5
+
+Границы случайного контраста - 0.4-1.4
+
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-5-p.png)
 
 Метрика точности
@@ -87,6 +97,12 @@
 
 # train6.py
 
+
+Значение случайной яркости - 0.7
+
+Границы случайного контраста - 0.5-1.5
+
+
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-6-p.png)
 
 Метрика точности
@@ -100,6 +116,12 @@
 ---
 
 # train7.py
+
+
+Значение случайной яркости - 0.6
+
+Границы случайного контраста - 0.6-1.4
+
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-7-p.png)
 
@@ -119,6 +141,8 @@
 
 # train8.py
 
+Стандартное отклонение - 50/255
+
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-8-p.png)
 
 Метрика точности
@@ -134,6 +158,8 @@
 
 # train9.py
 
+Стандартное отклонение - 100/255
+
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-9-p.png)
 
 Метрика точности
@@ -147,6 +173,8 @@
 ---
 
 # train10.py
+
+Стандартное отклонение - 1.0
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-10-p.png)
 
@@ -165,6 +193,14 @@
 ---
 
 # train11.py
+
+Угол - 45 градусов
+
+Значение случайной яркости - 0.5
+
+Границы случайного контраста - 0.4-1.4
+
+Стандартное отклонение - 1.0
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-11-p.png)
 
