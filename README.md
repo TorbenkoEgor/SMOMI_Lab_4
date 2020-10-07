@@ -256,14 +256,14 @@ BATCH_SIZE = 32
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-11-2.png)
 
-![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-1p.png)
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-11-1p.png)
 
 Метрика точности
 
-![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-11.png)
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-11-11.png)
 
 Метрика функции потерь
 
-![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-12.png)
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-11-12.png)
 
 ---
