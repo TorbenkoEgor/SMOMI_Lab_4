@@ -20,6 +20,16 @@ BATCH_SIZE = 64
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-2.png)
 
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-1p.png)
+
+Метрика точности
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-11.png)
+
+Метрика функции потерь
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-12.png)
+
 ---
 
 ## Поворот на случайный угол
@@ -39,6 +49,16 @@ BATCH_SIZE = 64
 Метрика функции потерь
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-2-2.png)
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-1p.png)
+
+Метрика точности
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-11.png)
+
+Метрика функции потерь
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-12.png)
 
 ---
 
@@ -115,6 +135,16 @@ BATCH_SIZE = 64
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-6-2.png)
 
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-1p.png)
+
+Метрика точности
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-11.png)
+
+Метрика функции потерь
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-12.png)
+
 ---
 
 # train7.py
@@ -188,6 +218,16 @@ BATCH_SIZE = 64
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-10-2.png)
 
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-1p.png)
+
+Метрика точности
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-11.png)
+
+Метрика функции потерь
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-12.png)
+
 ---
 
 ## Совместное использование техник аугментации
@@ -215,5 +255,15 @@ BATCH_SIZE = 32
 Метрика функции потерь
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-11-2.png)
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-1p.png)
+
+Метрика точности
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-11.png)
+
+Метрика функции потерь
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_4/blob/main/logs/lab4-1-12.png)
 
 ---
